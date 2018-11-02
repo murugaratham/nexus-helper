@@ -10,7 +10,7 @@ Drag and drop (or click on the dialog) your package-lock.json and click 'Get tar
 
 To develop,
 
-````js
+```js
 npm install
 npm start:dev
 npm run pack <generates unpackaged binaries for xplat>
