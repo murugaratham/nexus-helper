@@ -37,7 +37,3 @@ npm run dist <packs binaries into installers>
 - [ ] some tests maybe?
 - [ ] typescript watch is watching tarballs folder
 - [ ] https://github.com/lukechilds/keyv/issues/45
-
-```
-
-```
